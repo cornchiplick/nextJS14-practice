@@ -1,4 +1,4 @@
-import Navigation from "../components/navigation";
+import Navigation from "@myapp/components/navigation";
 
 export const metadata = {
   title: "Next.js",
