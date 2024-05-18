@@ -1,3 +1,5 @@
+import "@myapp/styles/global.css";
+
 import Navigation from "@myapp/components/navigation";
 import {Metadata} from "next";
 
